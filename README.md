@@ -1,2 +1,2 @@
-# Guia-de-ChatGPT
-Paso a paso
+## Mi primer commit en GitHub
+Estoy aprendiendo paso a paso.
