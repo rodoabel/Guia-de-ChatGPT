@@ -5,4 +5,4 @@ Paso a paso
 <p>Este texto tene herrores ¿cuales ton? </p>
 # Guia de ChatGPT
 
-Este texto tiene errores. ¿Cuáles son?
+<p>Este texto tiene errores. ¿Cuáles son?</p>
